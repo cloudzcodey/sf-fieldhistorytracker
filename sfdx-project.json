@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "YT Field History Tracker",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.2.0.NEXT",
+      "versionDescription": "Scalable field history tracker Salesforce app"
+    }
+  ],
+  "name": "FieldHistoryTrackerApp",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "53.0"
+}
