@@ -3,8 +3,7 @@
 &nbsp;   
 &nbsp;   
 # Install and use as unmanaged package
-Package URL :  [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5w000005qy5iAAA](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5w000005qy5iAAA)   
-Keyphrase for installation: **infokalpa**
+Package URL :  [YT FHT Unlocked Package Installation URL](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t4x000000VxxnAAC)
 
 # The execution flow
 Below diagram shows execution flow of field history record creation.    
